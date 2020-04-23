@@ -1,3 +1,9 @@
 {
-  "hello":"world"
+  "loc": "https://raw.githubusercontent.com/Switch168/public-database-json/master/db.json",
+  "maintainance": {
+    "chat": false,
+    "pstn": false,
+    "conference": false,
+    "api": false
+  }
 }
