@@ -2,7 +2,7 @@
   "loc": "https://raw.githubusercontent.com/Switch168/public-database-json/master/db.json",
   "maintainance": {
     "chat": false,
-    "pstn": false,
+    "pstn": true,
     "conference": false,
     "api": false
   }
